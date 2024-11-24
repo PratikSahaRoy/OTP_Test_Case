@@ -1,6 +1,7 @@
 This doc file contains a comprehensive test case suite for testing OTP (One-Time Password) functionality in an application. It ensures the OTP generation, delivery, and verification processes adhere to expected standards of reliability and security.
 
 Features Tested
+
 The test cases include validations for the following:
 
 1.Generation of OTP upon user request.
